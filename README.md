@@ -1,5 +1,7 @@
 # Gradle Spring Boot Starter Sample
 
+[![Build Status](https://travis-ci.org/skobow/gradle-spring-boot-starter-sample.svg?branch=master)](https://travis-ci.org/skobow/gradle-spring-boot-starter-sample)
+
 The [Spring Framework](https://spring.io) is a de facto standard for creating enterprise java applications as it offers a broad variety of functionality for all kinds of needs. Things became even more convenient when [Spring Boot](https://spring.io/guides/gs/spring-boot/) was introduced some years ago. 
 
 Have you ever wondered about all tha _magic_ that comes with Spring? Just add a dependency or an annotation and **BAHMM!** there you go! A lot of this magic is based on the various _Startes_ that are offered for Spring Boot. _Starters_ are the way to go when it comes to creating shared components in the Spring Boot universe. So it might be something worth spending the effort on [creating your own](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-developing-auto-configuration.html)! Unfortunately the official documentation is a little short and left some questions open to me. Most tutorials that can be found on the web
